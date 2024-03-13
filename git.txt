@@ -9,3 +9,16 @@ git process
 - git remote --> setting address of the location where the changes will be pushed to
 - git log --> shows that hash code and details about the recent commit
 - git reset --> makes all files untracked
+
+- git clone -->  clones any repo
+
+Commiting and pushing changes on internet
+- git add . 
+- git commit -m "message"
+- git pull origin main --> to make sure you are upto date
+- git push origin main
+
+Branching and stuff
+- git branch --> shows all branch
+- git branch Bname --> create the branch with bname
+- git checkout Bname --> switches you to that branch
