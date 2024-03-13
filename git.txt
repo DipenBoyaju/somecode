@@ -1,0 +1,5 @@
+git process
+
+- git init --> initiate git process
+- git status --> check status 
+- .gitignore -->
