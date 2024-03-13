@@ -1,5 +1,11 @@
 git process
 
-- git init --> initiate git process
-- git status --> check status 
+- git init --> initiate git process(allows you to run any git commands on that folder)
+- git status --> shows the current tracked and untracked files
 - .gitignore -->
+- git add . -->adds evey files in git's tracking zone
+- git commit -m "message --> stages the files to get pushed on next "push command"
+- .gitignore --> a file used to ignore the files which you dont want to get track of by git
+- git remote --> setting address of the location where the changes will be pushed to
+- git log --> shows that hash code and details about the recent commit
+- git reset --> makes all files untracked
